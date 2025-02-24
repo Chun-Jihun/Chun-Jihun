@@ -8,16 +8,15 @@ Interested in NLP, Computer Vision
 </span>   
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
-
-
-## Contact
 <a href="mailto:wjswlgns101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:wjswlgns101@naver.com"><img src="https://img.shields.io/badge/email-0B0D0E?style=flat-square&logo=mailbox.org&logoColor=white"/></a>
 &nbsp;
 <a href="https://www.instagram.com/jihun9961/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
 
 ## Tech Stacks
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -95,9 +94,5 @@ Interested in NLP, Computer Vision
 * [LLM과 Diffusion모델을 사용한 동화 제작](https://github.com/Chun-Jihun/capstonedesign)
 * [Langchain을 사용한 TRPG 게임마스터](https://github.com/Chun-Jihun/trpg)
 * [LLM을 활용한 챗봇 응답 성능 향상](https://github.com/Chun-Jihun/SW_AIchallenge)
-
-
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient%5&height=100&section=footer)

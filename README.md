@@ -3,7 +3,7 @@
 **Jihun**   
    
 <span style="font-size: 12px;">
-AI Researcher | Master's student at Hallym University<br>
+AI Researcher | Master's student in [MMCLab](https://mmc.hallym.ac.kr/) at Hallym University<br>
 Interested in NLP, Computer Vision
 </span>   
 <br><br>

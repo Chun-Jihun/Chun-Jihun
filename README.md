@@ -55,6 +55,11 @@ Interested in NLP, Computer Vision
             <td style="padding: 6px;">2023</td>
             <td style="padding: 6px;">한국정보보호학회(CISC-W 23)</td>
         </tr>
+        <tr>
+            <td style="padding: 6px;">웹 크롤링 데이터를 활용한 비방 글 판별 언어모델 프레임워크</td>
+            <td style="padding: 6px;">2025</td>
+            <td style="padding: 6px;">한국디지털콘텐츠학회 추계종합학술대회</td>
+        </tr>
     </table>
 </div>
 

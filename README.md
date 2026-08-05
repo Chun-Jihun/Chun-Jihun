@@ -15,8 +15,8 @@ Interested in NLP, Computer Vision
 <a href="https://www.instagram.com/jihun9961/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
 
 ## Tech Stacks
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)

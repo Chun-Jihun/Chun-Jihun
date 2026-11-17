@@ -104,5 +104,6 @@ Interested in NLP, Computer Vision
 * [LLM과 Diffusion모델을 사용한 동화 제작](https://github.com/Chun-Jihun/capstonedesign)
 * [Langchain을 사용한 TRPG 게임마스터](https://github.com/Chun-Jihun/trpg)
 * [LLM을 활용한 챗봇 응답 성능 향상](https://github.com/Chun-Jihun/SW_AIchallenge)
+* [바이브 코딩을 사용한 의료 어플 제작](https://github.com/Chun-Jihun/care_app)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient%5&height=100&section=footer)

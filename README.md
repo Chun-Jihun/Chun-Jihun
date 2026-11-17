@@ -15,8 +15,8 @@ Interested in NLP, Computer Vision
 <a href="https://www.instagram.com/jihun9961/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <br><br>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Chun-Jihun)](https://github.com/Chun-Jihun/github-readme-stats)
+[![Top Langs](./profile/top-langs.svg)](https://github.com/Chun-Jihun/github-readme-stats)
+[![GitHub stats](./profile/stats.svg)](https://github.com/Chun-Jihun/github-readme-stats)
 
 ## Tech Stacks
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
@@ -59,6 +59,11 @@ Interested in NLP, Computer Vision
             <td style="padding: 6px;">웹 크롤링 데이터를 활용한 비방 글 판별 언어모델 프레임워크</td>
             <td style="padding: 6px;">2025</td>
             <td style="padding: 6px;">한국디지털콘텐츠학회 추계종합학술대회</td>
+        </tr>
+         <tr>
+            <td style="padding: 6px;"><a href="https://www.wjgnet.com/1007-9327/full/v33/i2/125661.htm">Artificial intelligence-driven three-dimensional modeling of biliary strictures using magnetic resonance cholangiopancreatography for quantitative assessment and stent planning</a></td>
+            <td style="padding: 6px;">2026</td>
+            <td style="padding: 6px;">World Journal of Gastroenterology</td>
         </tr>
     </table>
 </div>
